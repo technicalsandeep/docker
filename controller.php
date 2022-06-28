@@ -1,0 +1,1 @@
+php make artisan controller
